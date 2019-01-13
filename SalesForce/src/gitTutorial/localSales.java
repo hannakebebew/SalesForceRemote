@@ -12,7 +12,7 @@ public class localSales {
 		
 		System.out.println("The value of the array is " + x);
 		
-		System.out.println("Hanna Kebebe");
+		System.out.println("Hanna Kebebew");
 		
 	}
 
